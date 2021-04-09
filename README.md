@@ -7,6 +7,6 @@ My name is Muhammad Farras Jibran, i am a Web Developer. I am more focused on de
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://eggless-developer.web.app/" target="blank"><img align="center" src="https://eggless-developer.web.app/logo192.png" alt="https://eggless-developer.web.app/" height="30"  /></a>
-<a href="https://www.linkedin.com/in/muhammad-farras-jibran-58bab91b6/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="https://www.linkedin.com/in/muhammad-farras-jibran-58bab91b6/" height="30" width="40" color="#0A66C2" /></a>
+<a href="https://www.linkedin.com/in/muhammad-farras-jibran-58bab91b6/" target="blank"><img align="center" src="https://github.com/farasjibran/farasjibran/blob/master/linkedin.svg" alt="https://www.linkedin.com/in/muhammad-farras-jibran-58bab91b6/" height="30" width="40" color="#0A66C2" /></a>
 
 </p>
