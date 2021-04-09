@@ -1,4 +1,4 @@
-![Header](https://github.com/farasjibran/farasjibran/blob/main/header.svg)
+![Header](https://github.com/farasjibran/farasjibran/blob/master/header.svg)
 
 <h3 align="center">Focusing On Web Developer 👨</h3>
 
