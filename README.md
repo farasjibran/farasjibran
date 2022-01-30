@@ -1,5 +1,3 @@
-![Header](https://github.com/farasjibran/farasjibran/blob/master/hello.gif)
-
 <h3 align="center">Focusing On Web Developer 👨🏻‍💻</h3>
 
 My name is Muhammad Farras Jibran and you can call me farras or jibran, i am a Web Developer. I am more focused on developing and also creating a website using any language. and also I can make a design with figma or adobe xd. you can see my work on this github. I hope you enjoy it.
