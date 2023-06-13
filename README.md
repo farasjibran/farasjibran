@@ -1,6 +1,6 @@
 <h3 align="center">Focusing On Web Developer 👨🏻‍💻</h3>
 
-My name is Muhammad Farras Jibran and you can call me farras or jibran, i am a Web Developer. I am more focused on developing and also creating a website using any language. and also I can make a design with figma or adobe xd. you can see my work on this github. I hope you enjoy it.
+My name is Muhammad Farras Jibran and you can call me farras or jibran, i am a Fullstack Developer. I am more focused on developing and also creating a website using any language. and also I can make a design with figma or adobe xd. you can see my work on this github. I hope you enjoy it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
