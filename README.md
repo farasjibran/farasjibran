@@ -1,9 +1,51 @@
-<h3 align="center">Focusing On Web Developer 👨🏻‍💻</h3>
-
-My name is Muhammad Farras Jibran and you can call me farras or jibran, i am a Fullstack Developer. I am more focused on developing and also creating a website using any language. and also I can make a design with figma or adobe xd. you can see my work on this github. I hope you enjoy it.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/farrasjibran/" target="blank"><img align="center" src="https://github.com/farasjibran/farasjibran/blob/master/linkedin.svg" alt="https://www.linkedin.com/in/muhammad-farras-jibran-58bab91b6/" height="30" width="40" /></a>
-<a href="https://dribbble.com/FarasJibran" target="blank"><img align="center" src="https://github.com/farasjibran/farasjibran/blob/master/dribble.svg" alt="https://dribbble.com/FarasJibran" height="30" width="40" /></a>
+<p align="center">
+  Hi there 👋 I'm Jibran, And welcome to my REPO!
 </p>
+<hr>
+
+- 💻 Coder since 2019 and still learning
+- 🚩 Web developer
+
+<hr>
+
+### ❤️ What I use and love to work with
+
+![](https://img.shields.io/badge/React-Js-E34F26?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Next-Js-1572B6?style=for-the-badge&logo=next&logoColor=white)
+![](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![](https://img.shields.io/badge/postgres-white?style=for-the-badge&logo=postgresql&logoColor=blue)
+![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+
+<hr>
+
+### 🧭 Recent Tech Stack
+
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/DJANGO-43853D?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Svelte-E34F26?style=for-the-badge&logo=svelte&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/postgres-white?style=for-the-badge&logo=postgresql&logoColor=blue)
+![](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=orange)
+![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/arduino-white?style=for-the-badge&logo=arduino&logoColor=dark)
+![](https://img.shields.io/badge/pytest-white?style=for-the-badge&logo=pytest&logoColor=dark)
+![](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=dark)
+![](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=blue)
+![](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![](https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=orange)
+![](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=green)
+![](https://img.shields.io/badge/Android-404D59?style=for-the-badge&logo=android&logoColor=4EA94B)
+![](https://img.shields.io/badge/ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=orange)
+![](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue)
+![](https://img.shields.io/badge/macos-white?style=for-the-badge&logo=apple&logoColor=silver)
