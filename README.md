@@ -41,7 +41,6 @@
 ![](https://img.shields.io/badge/postgres-white?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=orange)
 ![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/arduino-white?style=for-the-badge&logo=arduino&logoColor=dark)
 ![](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Android-404D59?style=for-the-badge&logo=android&logoColor=4EA94B)
