@@ -10,10 +10,13 @@
 
 ### ❤️ What I use and love to work with
 
-![](https://img.shields.io/badge/React-Js-E34F26?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Next-Js-1572B6?style=for-the-badge&logo=next&logoColor=white)
+![](https://img.shields.io/badge/ReactJS-E34F26?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/NextJS-1572B6?style=for-the-badge&logo=next&logoColor=white)
+![](https://img.shields.io/badge/ChakraUI-3DDC84?style=for-the-badge&logo=chakraui&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![](https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/postgres-white?style=for-the-badge&logo=postgresql&logoColor=blue)
+![](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=blue)
 ![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
 <hr>
