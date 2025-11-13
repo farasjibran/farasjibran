@@ -15,7 +15,8 @@
 ![](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Lumen-white?style=for-the-badge&logo=lumen&logoColor=E34F26)
-![](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zed&logoColor=E34F26)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zedindustries&logoColor=E34F26)
 
 <hr>
 
@@ -26,3 +27,4 @@
 ![](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Lumen-white?style=for-the-badge&logo=lumen&logoColor=E34F26)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
